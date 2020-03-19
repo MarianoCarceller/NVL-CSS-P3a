@@ -13,19 +13,14 @@
    </head>
    <body>
      <h1>Mi curso de nivelación de CSS - P3a</h1>
-     <p>Este es mi ejemplo de CSS de técnicas mixtas.</p>  
+     <p style="color:black;border: 1px solid black;">Este es mi ejemplo de CSS de técnicas mixtas.</p>
+     <p2>Ultima práctica del P3a</p2>
    </body>
 </html>
 
 ............................................................
 
-h1 {
-   color: green;
-   background-color: light gray;
-   border: 1px solid black;
-}
-
-p {
-   color: black;
-   border: 1px solid black;
+p2 {
+   color: red;
+   border: 2px solid red;
 }
