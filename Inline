@@ -1,11 +1,10 @@
-<!DOCTYPE html> 
 <html>
    <head>
      <meta charset="utf-8">
-     <title>Upgrade Formación</title>
+     <title>Upgrade Formación - P3a</title>
    </head>
    <body>
-     <h1 style="color: blue;background-color: yellow;border: 1px solid black;">Curso de nivelación!</h1>
-     <p style="color:red;">Otro ejemplo de CSS inline</p>
+     <h1 style="color: green;background-color: light gray;border: 1px solid black;">Curso de nivelación - P3a</h1>
+     <p style="color:black;border: 1px solid black;">Este es mi ejemplo de CSS inline</p>
    </body>
 </html>
